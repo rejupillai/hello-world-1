@@ -1,3 +1,8 @@
+# Note : This repo is cloned from the original @ 
+https://cloud.google.com/code/docs/vscode/creating-an-application and choosing NodeJS App
+
+
+
 # Hello World with Cloud Code
 
 ![Architecture Diagram](./img/diagram.png)
